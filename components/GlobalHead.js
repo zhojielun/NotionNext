@@ -128,6 +128,8 @@ const GlobalHead = props => {
   )
 }
 
+<script defer src="https://umami-lake-pi-87.vercel.app/script.js" data-website-id="f1c56e32-1efc-4101-be7d-1decc0405462"></script>
+
 /**
  * 获取SEO信息
  * @param {*} props
