@@ -3,9 +3,10 @@
 var script = document.createElement('script');
 
 // 设置属性
+script.async = true;
 script.defer = true;
 script.src = "https://umami.analyze.ng/script.js";
-script.setAttribute('data-website-id', '69891882-f935-40e9-a3c9-b6aea474b3c3');
+script.setAttribute('data-website-id', 'ff0c7858-3a58-4399-ab3a-0e652609cd63');
 
 // 将 <script> 元素添加到 <head> 或 <body> 中
 document.head.appendChild(script);
